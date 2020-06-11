@@ -1,6 +1,8 @@
 {
   "bundles": {
-    "AlexTanVer\\ElasticBundle\\ElasticBundle": ["all"]
+    "AlexTanVer\\ElasticBundle\\ElasticBundle": [
+      "all"
+    ]
   },
   "env": {
     "ELASTIC": "1"
