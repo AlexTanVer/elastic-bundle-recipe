@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "AlexTanVer\\ElasticBundle\\ElasticBundle": ["all"]
+  },
+  "env": {
+    "TEST": "7777"
+  }
+}
