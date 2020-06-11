@@ -3,6 +3,6 @@
     "AlexTanVer\\ElasticBundle\\ElasticBundle": ["all"]
   },
   "env": {
-    "ELASTIC": "7777"
+    "ELASTIC": "1"
   }
 }
